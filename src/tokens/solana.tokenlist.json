@@ -82447,6 +82447,23 @@
         "twitter": "https://twitter.com/GameYooOfficial",
         "website": "https://gameyoo.io"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5TPoLh9drzQsgvPqVZ3hhjG2LV4mBCy7uC2JY7fcZwDR",
+      "symbol": "FTCO",
+      "name": "Fake Taxi Coin Official",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FakeTaxiCoinOfficial/FakeTaxiCoinOfficialLogo/main/fake-taxi-crypto-logo.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "metaverse",
+        "play-to-earn"
+      ]
     }
   ],
   "version": {
